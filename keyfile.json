@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ziaja-blockchain-dev",
+  "private_key_id": "a79355453ea34474cade19c78d5c2103441d6861",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClhusVsaiKw7fS\nFggrOuicV3sbNg+d+eqkc2uN+AA05roe7+DzQ2UQsM/ukHb8C4Ni2/0JId7/ozUk\nBpyDpb4ZCeEPeFsXksCJSfXNeXJFE9wl9hbkcecGWWiN5YJUjFzvs6U0AAClVT/4\nlMCvXh7fSoVJFeY+HHSdAacnJzccwp9ISTpA8OUov2oqjDhbaXCuXj59gApIu4lb\nmJOyNVgl2FxOUBtBy88SyhsD8moRR7x3zsyEgIAY0lTMkW4dwuQG3MGXajs9OpSF\nx29JA/BV2tkxKWbAsI/D0fIs//Rkb4rm5kB9Y6Wc4CtObf8ZYW2ScJfq7/YUQ0AO\nvX4RXDtPAgMBAAECggEADcQvSAIbBNNrNc88RbAkCWCjLeusl9RhpeSthMSj68Jm\np00G9eRcgutZl7svEh45Ap9OJ5TIEZW2xTTBjpdZvIZcT+eQF+FOHvzmMv0POlyA\n+i1B0SUB9D66WdbFJJf54LudmToI07dH1zoz3kHjKmnttNrb572BG0+4YaK6zCrn\nSsqhUrq+oYb0z6Vj3h/imbkNqQ1wP2Ipcm3w6ZaFz1ezwoPybiyY55UF4JHWclDS\nQAIgkB1gu57nfJDErfCBw/ci6SAbz6hsYxb7MgWDfxj6FloqkF311XG6WXcR6JmJ\n2p1cepSB7HN7RRl+PnxpqKX9SipwA4jLyRfjeb4qZQKBgQDQ/jPUS26JkMI4b6gC\nZFiktE2OIGpdgDNlKWanLTACnj+Zh1DDIS/+x/0xU24vMu8dOalhJZN8Nz9vhx5n\nYYOkn9zbnDH2ZyKm6YGkUa59itMHj2Qy2bcWF1BsEcur8lR/snjuZqLZ0d9sXGe1\nDNFaFK8AZ78jaAQUE5+oajnd9QKBgQDKwfMzN20EbncPjk8oG9pxrOmp8o5ke/RX\nLPyfWXwBBEvwiZ+yNOXI6OYQ81eWAMjld9oyUQytyd82vS7FInDoKQebYjJUlOQA\ns89TYpNmCTe3vKvSBN5df1fZazHevGNmgPOZJ4t8rVLP97IDIMx4bEbv+D+J/azN\n0KArAudFswKBgCU2LdpN+AeMe9h6oQqT/WiOJgT5ZpbxXbVUcs+vbw34SVC31Dx6\nK0aNK1reBQ9oXUTx4GPIwgLq/2OHRnWX2k20nSmJHShHYtcfWpL8bDo0PrDo6ilX\ntI69ZfdoD8C07DC0gW3JXpO0F7j+lwSYnKoSZrqGvnS6b4d3mwTsrRMFAoGBAKhc\nYmit5m1emKinH52Le1kXHrPKwGg58UuOBHsBIBHsEm66qIuelwu8MIX0uk7Jegfo\n/Jr5aBDK5vmaH8L79Ush/roM0QQg2i6nIEn6ObDpiIWeOgJbnpV+j2DvPOrZ/aP5\nAc2z44R0m6Yq5Hrqej6okkLjHUelCB+i08zDTW03AoGAOG9W2XgAgmWMTafxD2KJ\nxPyOojYcI6s6LGnDUMPHWvG+kIB8gVlwHYFmIl1QLtDSHkLKXDqipnPuoMGJv1kG\nGOUSOLZGbr5jse3Y9x3BbCsXHkXOU+3u/Pdh79MgwKqq1TRKhPKiFhIzToR11yBG\nSo1aFYSwum39O0CgurZoWE4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "github@ziaja-blockchain-dev.iam.gserviceaccount.com",
+  "client_id": "104879768791137569791",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github%40ziaja-blockchain-dev.iam.gserviceaccount.com"
+}
